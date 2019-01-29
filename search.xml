@@ -1,19 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title><![CDATA[test]]></title>
-    <url>%2F2019%2F01%2F28%2Ftest%2F</url>
-    <content type="text"><![CDATA[这是一个测试文件]]></content>
-      <categories>
-        <category>前端</category>
-      </categories>
+    <title><![CDATA[helloWorld]]></title>
+    <url>%2F2019%2F01%2F29%2FhelloWorld%2F</url>
+    <content type="text"><![CDATA[当年在看 java 教学视频的时候，老师分享了一个很有意思的故事，说一个老程序员退休后生活十分无趣，他选择练习书法来改变这糟糕的状态，他拿起笔，沉思片刻，在他的第一张纸上写下一个“hello world”。这个笑话估计也就程序员能够看懂，但我想我也应该延续这种”传统“，我便以一篇”hello world”开始我的个人博客之旅吧，希望他能成为我一直的习惯。]]></content>
       <tags>
-        <tag>test</tag>
+        <tag>随笔</tag>
       </tags>
-  </entry>
-  <entry>
-    <title><![CDATA[Hello World]]></title>
-    <url>%2F2019%2F01%2F28%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[Welcome to Hexo! This is your very first post. Check documentation for more info. If you get any problems when using Hexo, you can find the answer in troubleshooting or you can ask me on GitHub. Quick StartCreate a new post1$ hexo new "My New Post" More info: Writing Run server1$ hexo server More info: Server Generate static files1$ hexo generate More info: Generating Deploy to remote sites1$ hexo deploy More info: Deployment]]></content>
   </entry>
 </search>
